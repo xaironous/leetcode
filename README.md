@@ -11,3 +11,15 @@ This repository contains my **LeetCode solutions** for various problems.
 1. Browse the repository to find solutions for different problems.  
 2. Each file corresponds to a **LeetCode problem submission**.  
 3. Feel free to explore different approaches and suggest optimizations!  
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/xaironous/leetcode/tree/main/Python/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/xaironous/leetcode/tree/main/Python/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->
