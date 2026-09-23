@@ -26,4 +26,16 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/xaironous/leetcode/tree/main/MySQL/0175-combine-two-tables/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/xaironous/leetcode/tree/main/Python/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/xaironous/leetcode/tree/main/Python/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/xaironous/leetcode/tree/main/Python/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
