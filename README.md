@@ -44,6 +44,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xaironous/leetcode/tree/main/Python/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0005-longest-palindromic-substring](https://github.com/xaironous/leetcode/tree/main/Python/0005-longest-palindromic-substring/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -56,4 +57,16 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/xaironous/leetcode/tree/main/Python/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xaironous/leetcode/tree/main/Python/0005-longest-palindromic-substring/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xaironous/leetcode/tree/main/Python/0005-longest-palindromic-substring/) | Medium |
+## Manacher
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/xaironous/leetcode/tree/main/Python/0005-longest-palindromic-substring/) | Medium |
 <!---LeetCode Topics End-->
