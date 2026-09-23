@@ -22,6 +22,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xaironous/leetcode/tree/main/Python/0001-two-sum/) | Easy |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xaironous/leetcode/tree/main/Python/0003-longest-substring-without-repeating-characters/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,4 +39,12 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/xaironous/leetcode/tree/main/Python/0002-add-two-numbers/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xaironous/leetcode/tree/main/Python/0003-longest-substring-without-repeating-characters/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/xaironous/leetcode/tree/main/Python/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
