@@ -29,6 +29,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/xaironous/leetcode/tree/main/MySQL/0175-combine-two-tables/) | Easy |
+| [1667-fix-names-in-a-table](https://github.com/xaironous/leetcode/tree/main/MySQL/1667-fix-names-in-a-table/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
