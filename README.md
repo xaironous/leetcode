@@ -19,6 +19,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/xaironous/leetcode/tree/main/Python/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/xaironous/leetcode/tree/main/Python/0004-median-of-two-sorted-arrays/) | Hard |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/xaironous/leetcode/tree/main/Python/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -36,6 +37,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/xaironous/leetcode/tree/main/Python/0002-add-two-numbers/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/xaironous/leetcode/tree/main/Python/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
