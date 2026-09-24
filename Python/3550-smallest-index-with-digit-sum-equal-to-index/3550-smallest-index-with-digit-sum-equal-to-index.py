@@ -8,7 +8,6 @@ class Solution(object):
         for i in range(len(nums)):
             total = 0
             number = nums[i]
-            output = 0 
 
             while number > 0:
                 total += number % 10
@@ -17,10 +16,8 @@ class Solution(object):
             if total == i:
                 print(total)
                 print(i)
-                output = i
-                return output
-            elif i == len(nums)-1 and output == 0:
-                return -1
+                return i
+        return -1
 
 
         
