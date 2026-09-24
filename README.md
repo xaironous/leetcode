@@ -30,6 +30,7 @@ This repository contains my **LeetCode solutions** for various problems.
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/xaironous/leetcode/tree/main/MySQL/0175-combine-two-tables/) | Easy |
 | [0196-delete-duplicate-emails](https://github.com/xaironous/leetcode/tree/main/MySQL/0196-delete-duplicate-emails/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/xaironous/leetcode/tree/main/MySQL/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1667-fix-names-in-a-table](https://github.com/xaironous/leetcode/tree/main/MySQL/1667-fix-names-in-a-table/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
